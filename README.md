@@ -3,6 +3,9 @@
 - [Enunciado de la práctica](/PRACTICA.md)
 - [Documentación de la práctica](/DESPLIEGUE.md)
 
+**He conseguido hacer todo lo que se pide**.
+Lo único que no he podido completar es la tarea opcional de incrementar la version del tag en docker hub (lo he intentado, pero no he podido por tiempo)
+
 ---
 
 # DESCRIPCIÓN DEL REPOSITORIO:
