@@ -1,6 +1,16 @@
+# PRACTICA:
+
+- [Enunciado de la práctica](/PRACTICA.md)
+- [Documentación de la práctica](/DESPLIEGUE.md)
+
+---
+
+# DESCRIPCIÓN DEL REPOSITORIO:
+
 # 📋 Aplicación CRUD de Usuarios con Spring Boot y Docker
 
 Aplicación web educativa que demuestra cómo desarrollar y desplegar una aplicación Spring Boot utilizando Docker. Este proyecto está diseñado para el módulo de "Despliegue de Aplicaciones Web".
+
 
 ## 📑 Tabla de Contenidos
 
