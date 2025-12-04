@@ -40,6 +40,11 @@ Podemos ver como cuando hice un commit podemos ver en el github actions como se 
 Una vez ha terminado de hacer el build del GitHub Action, podemos ver que ha terminado con éxito
     - ![Successful GitHub Action Built](docs/images//successful_built_action.png)
 
+A continuación detallo los logs que he visualizado en el GitHub Action:
+    - ![GitHub Actions Logs 1](docs/images/building-logs-1.png)
+    - ![GitHub Actions Logs 2](docs/images/building-logs-2.png)
+    - ![GitHub Actions Logs 3](docs/images/building-logs-3.png)
+
 Como ha sido satisfactorio, revismamos el Docker Hub y vemos que se ha automatizado correctamente el CI/CD hacia el Docker Hub, gracias a lo que hemos configurado en el archivo .yaml
     - ![Successful Deploy on Docker Hub](docs/images/dockerhub_successful_deploy.png)
 
