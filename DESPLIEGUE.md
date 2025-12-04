@@ -54,7 +54,16 @@ Como ha sido satisfactorio, revismamos el Docker Hub y vemos que se ha automatiz
 
 ### SCRIPT BASH AUTOMÁTICO
 
-### PASOS PARA EJECUTARLO
+Script Bash para automatizar deploy
+- En vez de ejecutar los comandos manualmente, se pueda automatizar el deploy con el siguiente script bash:
+    - [automation.sh](/automation.sh)
+
+```bash
+chmod +x automation.sh
+./automation.sh
+```
+
+### PASOS PARA EJECUTARLO MANUALMENTE
 
 1. Primero descargué la imagen con el siguiente comando:
 ```bash
@@ -68,15 +77,6 @@ docker run --name practicadocker -p 80:8080 -d eortb/ezequielpracticadocker:late
 
 3. Visualizo que se despliega correctamente mi imagen de dockerhub en mi localhost
 - ![Localhost Working](docs/images/localhost_working.png)
-
-4. Script Bash para automatizar deploy
-- En vez de ejecutar los comandos manualmente, se pueda automatizar el deploy con el siguiente script bash:
-    - [automation.sh](/automation.sh)
-
-```bash
-chmod +x automation.sh
-./automation.sh
-```
 
 ---
 
